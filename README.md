@@ -6,7 +6,7 @@ The task involves deploying and configuring an NGINX web server, hosting a custo
 
 **Name: Toyyib Muhammad-Jamiu**
 
-**Slack Username: @NerdRX**
+**Slack Username: @NerdRx**
 
 ## 🧠 Project Description
 
