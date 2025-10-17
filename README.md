@@ -38,5 +38,7 @@ This project demonstrates my ability to:
 ## ✅ Output Preview
 
 Welcome to DevOps Stage 0 - Toyyib Muhammad-Jamiu/@NerdRx
+
 Successfully deployed on AWS
-Deployed: 16th October, 2025
+
+Deployed: 17/10/2025
