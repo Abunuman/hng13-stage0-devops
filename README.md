@@ -22,9 +22,7 @@ This project demonstrates my ability to:
 
 **Platform: AWS**
 
-**Server IP / Domain: http://[your-server-ip-or-domain]/**
-
-**Deployment Date: October 16, 2025**
+**Deployment Date: October 17, 2025**
 
 ## 🗂️ File Structure
 
